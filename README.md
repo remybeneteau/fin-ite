@@ -1,1 +1,1 @@
-# fin-ite
+# finite.inc
